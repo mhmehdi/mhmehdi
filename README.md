@@ -1,7 +1,7 @@
 - 👋 Hi, I’m mehdi maleki
 - 👀 I’m interested in Back-end Dev 
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on anthing
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me @adsmehd in telegram mmaleki4319 in instagram
 
 ***If there is a grammatical error, just pretend you are blind***
